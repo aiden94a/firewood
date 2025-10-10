@@ -82,7 +82,7 @@ thiserror = "2.0.12"
 
 # common dev dependencies
 criterion = "0.7.0"
-ethereum-types = "0.15.1"
+ethereum-types = "0.16.0"
 hex-literal = "1.0.0"
 pprof = "0.15.0"
 rand = "0.9.2"
